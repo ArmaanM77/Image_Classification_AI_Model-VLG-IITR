@@ -1,6 +1,8 @@
 # Image_Classification_AI_Model-VLG-IITR
 
-Link to Kaggle notebook is pinned in Model_Path file
+#1-Link to Kaggle notebook is pinned in Model_Path file
+#2-missing_class_finder and missing classes.txt are extra files only to find the number and names of classes for which, we do not have the images
+#3-The remaining model details are as below while the report link is: https://docs.google.com/document/d/15FdC9bzN2oIUwVgGOnHwv4ChADfJAOgXAC9xiIkbHsU/edit?usp=sharing
 
 
 Model Development
