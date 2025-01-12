@@ -1,0 +1,10 @@
+horse
+moose
+gorilla
+fox
+sheep
+chimpanzee
+squirrel
+rhinoceros
+rabbit
+collie
