@@ -1,4 +1,8 @@
-# Image_Classification_AI_Model-VLG-IITR-
+# Image_Classification_AI_Model-VLG-IITR
+
+Link to Kaggle notebook is pinned in Model_Path file
+
+
 Model Development
 
 1.	Data Processing:
