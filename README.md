@@ -6,7 +6,7 @@
 
 #3-The remaining model details are as below while the report link is: https://docs.google.com/document/d/15FdC9bzN2oIUwVgGOnHwv4ChADfJAOgXAC9xiIkbHsU/edit?usp=sharing
 
-
+#NOTE: The codebase may be accessed from the Jupiter Notebook file containing the logs from last run as well as a cell wise distributed code for review
 Model Development
 
 1.	Data Processing:
