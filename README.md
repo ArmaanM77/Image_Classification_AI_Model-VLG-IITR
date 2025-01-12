@@ -19,6 +19,7 @@ c.	Data Augmentation
 In the initial stages of the project, one thing I encountered very often was the issue of overfitting. Hence, to tackle that, my aim was to diversify the dataset so that the neuron network is able to recognise the test images on its own rather than strictly seeking out a specific pattern from the training dataset.
 
 The Data Augmentation techniques used in the final model were a result of several hit and trial methods in various libraries. The best ones that I used are namely:
+
 i.	RandomResizedCrop : Crops a part of the image and scales it to the input size.
 
 ii.	RandomHorizontalFlip : Flips the image across the Y-axis to diversify data
